@@ -1,0 +1,137 @@
+:root {
+  color-scheme: dark;
+  --bg: #0d0f12;
+  --card: #171a20;
+  --muted: #9299a6;
+  --line: #292e38;
+  --accent: #c7f36b;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: #f4f6f8;
+  font: 15px/1.5 system-ui, sans-serif;
+}
+
+main {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 40px 22px 70px;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  letter-spacing: -0.05em;
+}
+
+header p {
+  margin: 0 0 18px;
+  color: var(--muted);
+}
+
+nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: #0d0f12;
+  background: var(--accent);
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 6px 12px;
+}
+
+h2 { margin: 36px 0 14px; }
+h2 span {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
+  gap: 18px;
+}
+
+.card {
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--card);
+  display: flex;
+  flex-direction: column;
+}
+
+.card video {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  background: #111;
+}
+
+.card-body {
+  padding: 17px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.meta, .footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+}
+
+.handle { font-weight: 700; }
+
+.topic {
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.summary {
+  margin: 14px 0 10px;
+  color: #d8dce3;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.post-date {
+  color: var(--muted);
+  font-size: 13px;
+  margin-bottom: 14px;
+  min-height: 1.2em;
+}
+
+.footer {
+  margin-top: auto;
+  color: var(--muted);
+  font-size: 13px;
+  flex-wrap: wrap;
+}
+
+.footer a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 650;
+}
+
+.resolution {
+  color: var(--muted);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
