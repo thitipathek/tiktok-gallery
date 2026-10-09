@@ -82,11 +82,34 @@ h2 span {
   flex-direction: column;
 }
 
-.card video {
+.card video,
+.card .thumb-link,
+.card .thumb {
   width: 100%;
   aspect-ratio: 1;
   object-fit: cover;
   background: #111;
+  display: block;
+}
+
+.card .thumb-link {
+  position: relative;
+  overflow: hidden;
+}
+
+.card .thumb-link::after {
+  content: "▶ TikTok";
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: rgba(0,0,0,.72);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  pointer-events: none;
 }
 
 .card-body {
