@@ -2017,7 +2017,7 @@
    "priceaction"
   ],
   "duration_sec": 18,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7646543763191450900.mp4"
  },
  {
@@ -2036,7 +2036,7 @@
   "views": 236400,
   "hashtags": [],
   "duration_sec": 48,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7574465226259680533.mp4"
  },
  {
@@ -2059,7 +2059,7 @@
    "Crypto"
   ],
   "duration_sec": 103,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7693575428455337238.mp4"
  },
  {
@@ -2084,7 +2084,7 @@
    "TradingEducation"
   ],
   "duration_sec": 24,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7679805009537666318.mp4"
  },
  {
@@ -2103,7 +2103,7 @@
   "views": 196800,
   "hashtags": [],
   "duration_sec": 72,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7673949851704511757.mp4"
  },
  {
@@ -2125,7 +2125,7 @@
    "bubble"
   ],
   "duration_sec": 85,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7576716730387500301.mp4"
  },
  {
@@ -2286,9 +2286,13 @@
   "poster": "media/7583002063420820767.jpg",
   "post_url": "https://www.tiktok.com/@kitco.news/video/7583002063420820767",
   "views": 117,
-  "hashtags": null,
+  "hashtags": [
+   "Top",
+   "Viral",
+   "LynetteZang"
+  ],
   "duration_sec": 72,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7583002063420820767.mp4"
  },
  {
@@ -2305,7 +2309,11 @@
   "poster": "media/7655398611588599073.jpg",
   "post_url": "https://www.tiktok.com/@imyfx/video/7655398611588599073",
   "views": 670500,
-  "hashtags": null,
+  "hashtags": [
+   "daytrading",
+   "trading",
+   "xauusd"
+  ],
   "duration_sec": 6,
   "lang": null,
   "local_original": "/workspace/tt-work/dl/7655398611588599073.mp4"
@@ -2324,9 +2332,9 @@
   "poster": "media/7687988581817797902.jpg",
   "post_url": "https://www.tiktok.com/@binance/video/7687988581817797902",
   "views": 2100000,
-  "hashtags": null,
+  "hashtags": [],
   "duration_sec": 42,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7687988581817797902.mp4"
  },
  {
@@ -2343,9 +2351,9 @@
   "poster": "media/7522596047261043998.jpg",
   "post_url": "https://www.tiktok.com/@austinhankwitz/video/7522596047261043998",
   "views": 75100,
-  "hashtags": null,
+  "hashtags": [],
   "duration_sec": 81,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7522596047261043998.mp4"
  },
  {
@@ -2362,9 +2370,9 @@
   "poster": "media/7690235729284173087.jpg",
   "post_url": "https://www.tiktok.com/@mastermoneyco/video/7690235729284173087",
   "views": 4265,
-  "hashtags": null,
+  "hashtags": [],
   "duration_sec": 161,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7690235729284173087.mp4"
  },
  {
@@ -2381,9 +2389,9 @@
   "poster": "media/7628955438549110039.jpg",
   "post_url": "https://www.tiktok.com/@marktilbury/video/7628955438549110039",
   "views": 1800000,
-  "hashtags": null,
+  "hashtags": [],
   "duration_sec": 29,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7628955438549110039.mp4"
  },
  {
@@ -2400,7 +2408,12 @@
   "poster": "media/7689035918262504737.jpg",
   "post_url": "https://www.tiktok.com/@imyfx/video/7689035918262504737",
   "views": 9317,
-  "hashtags": null,
+  "hashtags": [
+   "daytrading",
+   "xauusd",
+   "forex",
+   "daytrader"
+  ],
   "duration_sec": 12,
   "lang": null,
   "local_original": "/workspace/tt-work/dl/7689035918262504737.mp4"
@@ -2419,9 +2432,14 @@
   "poster": "media/7694336254007119117.jpg",
   "post_url": "https://www.tiktok.com/@cryptowendyo/video/7694336254007119117",
   "views": 23700,
-  "hashtags": null,
+  "hashtags": [
+   "xrp",
+   "bitcoin",
+   "crypto",
+   "stocks"
+  ],
   "duration_sec": 90,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7694336254007119117.mp4"
  },
  {
@@ -2438,9 +2456,9 @@
   "poster": "media/7621050716559346958.jpg",
   "post_url": "https://www.tiktok.com/@grahamstephan/video/7621050716559346958",
   "views": 107200,
-  "hashtags": null,
+  "hashtags": [],
   "duration_sec": 25,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7621050716559346958.mp4"
  },
  {
@@ -2457,9 +2475,9 @@
   "poster": "media/7623458583975447822.jpg",
   "post_url": "https://www.tiktok.com/@grahamstephan/video/7623458583975447822",
   "views": 146100,
-  "hashtags": null,
+  "hashtags": [],
   "duration_sec": 33,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7623458583975447822.mp4"
  },
  {
@@ -2476,9 +2494,14 @@
   "poster": "media/7574111060798557451.jpg",
   "post_url": "https://www.tiktok.com/@humbledtrader/video/7574111060798557451",
   "views": 4243,
-  "hashtags": null,
+  "hashtags": [
+   "trading101",
+   "daytradingforbeginners",
+   "tradingstyles",
+   "swingtrading"
+  ],
   "duration_sec": 12,
-  "lang": null,
+  "lang": "en",
   "local_original": "/workspace/tt-work/dl/7574111060798557451.mp4"
  }
 ]
